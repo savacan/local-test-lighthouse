@@ -1,0 +1,22 @@
+{
+  "name": "local-test-lighthouse",
+  "version": "1.0.0",
+  "description": "localでlighthouse動かすテスト",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savacan/local-test-lighthouse.git"
+  },
+  "author": "savacan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savacan/local-test-lighthouse/issues"
+  },
+  "homepage": "https://github.com/savacan/local-test-lighthouse#readme",
+  "dependencies": {
+    "lighthouse": "^8.5.1"
+  }
+}
